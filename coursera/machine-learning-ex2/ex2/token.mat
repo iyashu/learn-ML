@@ -1,0 +1,13 @@
+# name: email
+# type: sq_string
+# elements: 1
+# length: 23
+yashpal.c1995@gmail.com
+
+
+# name: token
+# type: sq_string
+# elements: 1
+# length: 16
+
+
